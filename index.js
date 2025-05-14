@@ -1,5 +1,5 @@
 function ArrayReversal(params) {
-  //this is a  a first solution  .
+  //this is a first solution  .
   var arr = [];
   for (let index = params.length - 1; index >= 0; index--) {
     arr.push(params[index]);

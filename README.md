@@ -1,32 +1,24 @@
-# chalIenges-and-data-structures
+# Table of Contents
+ 
+### Whiteboard Challenges:
 
 
-## ArrayReversal 
+---
 
+## Challenge A: Array Reversal 
 
->Create a function named ArrayReversal that accepts an
-array as its parameter. Without using any built-in
-methods, return a new array where the elements are in
-the reverse order.
-
-![ArrayReversal](./imag/ArrayReversal.jpg)
-
-
+>![Challenge A: Array Reversal](./whiteboard-challenges/ArrayReversal/ArrayReversal.jpg)
+- [Challenge A: Array Reversal](whiteboard-challenges/ArrayReversal/README.md)
 
 
 
-## MostFrequentNumber 
 
 
->Write a method that takes an integer array and
-returns the number that appears the most times. If
-there are no duplicates, return the first number in the
-array. If more than one number shows up the same
-number of times, return the first found.
->![ArrayReversal](./imag/MostFrequentNumber.jpg)
+## Challenge B: Most Frequent Number
 
 
-
+>![Challenge B: Most Frequent Number](./whiteboard-challenges/MostFrequentNumber/MostFrequentNumber.jpg)
+- [Challenge B: Most Frequent Number](whiteboard-challenges/MostFrequentNumber/README.md)
 
 
 
