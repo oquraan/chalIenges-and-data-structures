@@ -4,6 +4,6 @@
 Write a function called ReverseCharacters that takes a single string as input. The function should return the string with all characters reversed.
 
 ### Whiteboard Image
-![Reverse Characters](Reverse%20Characters.jpg)
+![Reverse   Characters](Reverse%20Characters.jpg)
 ### Output 
 ![Output](Output.jpg)
