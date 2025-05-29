@@ -211,3 +211,24 @@ console.log(reverseCharacters("465cba"));
 console.log(reverseCharacters(123456789));
 console.log(reverseCharacters([1, 2, 3, 4, 5]));
 console.log(reverseCharacters(12.25));
+
+function RemoveMiddleValue(params) {
+  if (typeof params == "number") params = params.toString();
+  let middle;
+  if (params.length % 2 == 1) middle = (params.length - 1) / 2;
+  else middle = params.length / 2;
+  var arr = [];
+  for (let index = 0; index < params.length; index++) {
+    if (index == middle) {
+      continue;
+    } else arr.push(params[index]);
+  }
+  return arr;
+}
+console.log(RemoveMiddleValue([1, 2, 3, 4, 5, 6]));
+console.log(RemoveMiddleValue([1, 2, 3, 4, 5]));
+console.log(RemoveMiddleValue([27, 8, 15, 73, 27]));
+console.log(RemoveMiddleValue([7, 9, 13, 25, 5, 17]));
+console.log(RemoveMiddleValue("sdsdadd"));
+console.log(RemoveMiddleValue(562));
+console.log(RemoveMiddleValue([7, 9, 13, "Asd", "s", 17.5]));

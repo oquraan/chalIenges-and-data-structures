@@ -36,3 +36,9 @@
 >![ Challenge 03: Reverse Characters](whiteboard-challenges/Reverse-Characters/Reverse%20Characters2.jpg)
 - [ Challenge 03: Reverse Characters](whiteboard-challenges/Reverse-Characters/Readme.md)
 
+
+## Challenge 04: Remove Middle Value from Array
+
+>![ Challenge 04: Remove Middle Value from Array](whiteboard-challenges/Remove-Middle-Value/RemoveMiddleValue.jpg)
+- [ Challenge 04: Remove Middle Value from Array](whiteboard-challenges/Remove-Middle-Value/REDME.md)
+
