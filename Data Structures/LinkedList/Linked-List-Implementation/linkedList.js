@@ -1,9 +1,10 @@
 const Node = require("./NodeClass");
-
+// const Reverse = require("./reverse/reverse.js");
 class LinkedList {
   constructor() {
     this.head = null;
     this.size = 0;
+    this.last = null;
   }
 
   add(data) {
@@ -21,6 +22,7 @@ class LinkedList {
     }
 
     curent.next = newNode;
+    this.last = newNode;
     this.size++;
   }
 
@@ -119,6 +121,29 @@ class LinkedList {
 
     // curent.next = newNode;
   }
+  // Reverse() {
+  //   if (this.head === null) {
+  //     console.log("the list is empty ");
+  //     return;
+  //   }
+  //   if (this.head.next === null) {
+  //     console.log("This is a single list node ");
+  //     return;
+  //   }
+  //   let curent = this.head;
+
+  //   let next = null;
+  //   let pre = null;
+
+  //   while (curent !== null) {
+  //     next = curent.next;
+  //     curent.next = pre;
+  //     pre = curent;
+  //     curent = next;
+  //   }
+
+  //   this.head = pre;
+  // }
 }
 
 module.exports = LinkedList;

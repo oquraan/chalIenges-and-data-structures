@@ -14,30 +14,43 @@
 >- printList(): Print the contents of the list in order.
 >- includes(data): Check if the linked List contains a node with the specified value.
 >- insertAt(data, index): Insert a new node with the specified data at the specified index in the linkedlist.
+>- function that reverses the linked list. The function should not create a new list but it should reverse the linked Iilist itself.
 ### Whiteboard Image
 >LinkedListClass and Funcations
-![LinkedListClass+Funcations](./LinkedListClass+Funcations.jpg)
+![LinkedListClass+Funcations](./docs/LinkedListClass+Funcations.jpg)
 
 >LinkedList Class 
-![LinkedList](./LinkedList.jpg)
+![LinkedList](./docs/LinkedList.jpg)
 
 >Add function 
-![add](./add.jpg)
+![add](./docs/add.jpg)
 
 >Remove function
-![remove](./remove1.jpg)
+![remove](./docs/remove1.jpg)
 
 >PrintList function
-![ printList ](./printList.jpg)
+![ printList ](./docs/printList.jpg)
 
 >Include function 
-![include](./include.jpg)
+![include](./docs/include.jpg)
 
 >InsertAt function 
-![ inserAt](./inserAt.jpg)
+![ inserAt](./docs/inserAt.jpg)
 
 >Output 
-![OutPut](./Output.jpg)
+![OutPut](./docs/Output.jpg)
 
 >Output test 
-![ inserAt](./jest.jpg)
+![ inserAt](./docs/jest.jpg)
+
+>Revers function 
+![ Revers](./docs/Reveres.jpg)
+![ Revers pic1 ](./docs/step1.jpg)
+![ Revers pic1 ](./docs/step2.jpg)
+
+
+>Output Revers
+![OutPut](./docs/OutputRevers1.jpg)
+
+>Output Test Revers  
+![OutPut](./docs/outputReversTest.jpg)
