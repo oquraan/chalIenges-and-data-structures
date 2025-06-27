@@ -1,5 +1,6 @@
 const LinkedList = require("./linkedList");
 require("./reverse/reverse.js");
+require("./MergeStored/mergeStored.js");
 const l = new LinkedList();
 console.log("this is my output to do debugging");
 
@@ -83,6 +84,26 @@ console.log(list.includes(10));
 
 list.insertAt(15, 2);
 
-list.printList();
-list.Reverse();
-list.printList();
+// list.printList();
+// list.Reverse();
+
+console.log(list.head.data);
+console.log(l.head.data);
+
+const l1 = new LinkedList();
+l1.add(1);
+l1.add(2);
+l1.add(3);
+l1.add(6);
+l1.printList();
+
+const l2 = new LinkedList();
+l2.add(2);
+l2.add(5);
+l2.add(6);
+l2.add(7);
+l2.printList();
+const list3 = new LinkedList();
+const ll = list3.mergeSortedLists(l2, l1);
+
+ll.printList();
