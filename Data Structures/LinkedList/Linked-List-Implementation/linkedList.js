@@ -82,6 +82,7 @@ class LinkedList {
       curent = curent.next;
     }
     console.log("Head -> " + result + "Null");
+    return result;
   }
   includes(data) {
     if (this.head === null) {

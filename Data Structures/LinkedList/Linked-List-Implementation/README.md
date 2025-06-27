@@ -54,3 +54,16 @@
 
 >Output Test Revers  
 ![OutPut](./docs/outputReversTest.jpg)
+
+
+
+>mergeSortedLists function 
+![ mergeSortedLists](./docs/mergeSortedLists.jpg)
+
+
+
+>Output mergeSortedLists
+![OutPut mergeSortedLists](./docs/OutputmergeSortedLists.jpg)
+
+>Output Test mergeSortedLists  
+![OutPut mergeSortedLists](./docs/TESTmergeSortedLists.jpg)
