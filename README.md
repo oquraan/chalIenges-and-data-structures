@@ -57,3 +57,7 @@
 ## Linked List Implementation :Linked List Merge Sorted Lists
 >![ mergeSortedLists LinkedList ](Data%20Structures/LinkedList/Linked-List-Implementation/docs/mergeSortedLists.jpg)
 - [mergeSortedLists LinkedList ](Data%20Structures/LinkedList/Linked-List-Implementation/MergeStored/README.md)
+
+## Linked List Implementation :Linked List Rotate by K
+>![Linked List Rotate by K ](Data%20Structures/LinkedList/Linked-List-Implementation/docs/RotateLinkedList.jpg)
+- [Linked List Rotate by K ](Data%20Structures/LinkedList/Linked-List-Implementation/RotateLinkedList/README.md)
