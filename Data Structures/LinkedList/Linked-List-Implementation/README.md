@@ -67,3 +67,26 @@
 
 >Output Test mergeSortedLists  
 ![OutPut mergeSortedLists](./docs/TESTmergeSortedLists.jpg)
+
+>mergeSortedLists function 
+![ mergeSortedLists](./docs/mergeSortedLists.jpg)
+
+
+
+>Output mergeSortedLists
+![OutPut mergeSortedLists](./docs/OutputmergeSortedLists.jpg)
+
+>Output Test mergeSortedLists  
+![OutPut mergeSortedLists](./docs/TESTmergeSortedLists.jpg)
+
+
+>RotateLinkedList function 
+![ mergeSortedLists](./docs/RotateLinkedList.jpg)
+
+
+
+>Output RotateLinkedList
+![OutPut mergeSortedLists](./docs/OutPutRotateLinkedList.jpg)
+
+>Output Test merRotateLinkedListgeSortedLists  
+![OutPut mergeSortedLists](./docs/outputTestRotateLinkedList.jpg)
