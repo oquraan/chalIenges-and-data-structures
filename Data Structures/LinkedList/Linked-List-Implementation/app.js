@@ -1,6 +1,7 @@
 const LinkedList = require("./linkedList");
 require("./reverse/reverse.js");
 require("./MergeStored/mergeStored.js");
+require("./RotateLinkedList//RotateLinkedList.js");
 const l = new LinkedList();
 console.log("this is my output to do debugging");
 
@@ -84,26 +85,77 @@ console.log(list.includes(10));
 
 list.insertAt(15, 2);
 
-// list.printList();
+console.log("Sssssss");
+
+const l3 = new LinkedList();
+l3.add(1);
+
+l3.add(2);
+
+l3.add(3);
+
+l3.add(4);
+l3.add(5);
+
+l3.add(6);
+
+l3.add(7);
+
+l3.add(8);
+
+console.log("Before Rotate 12");
+
+l3.printList();
+
+l3.RotateLinkedList(12);
+
+console.log("After rotate 12");
+l3.printList();
+
+console.log("Before Rotate 3");
+
+l3.printList();
+
+l3.RotateLinkedList(3);
+
+console.log("After rotate 3");
+
+l3.printList();
+console.log("Before Rotate 6");
+
+l3.printList();
+
+l3.RotateLinkedList(6);
+console.log("After rotate 6");
+
+l3.printList();
+console.log("Before Rotate 0");
+
+l3.printList();
+
+l3.RotateLinkedList(0);
+console.log("After rotate 0");
+
+l3.printList();
 // list.Reverse();
 
-console.log(list.head.data);
-console.log(l.head.data);
+// console.log(list.head.data);
+// console.log(l.head.data);
 
-const l1 = new LinkedList();
-l1.add(1);
-l1.add(2);
-l1.add(3);
-l1.add(6);
-l1.printList();
+// const l1 = new LinkedList();
+// l1.add(1);
+// l1.add(2);
+// l1.add(3);
+// l1.add(6);
+// l1.printList();
 
-const l2 = new LinkedList();
-l2.add(2);
-l2.add(5);
-l2.add(6);
-l2.add(7);
-l2.printList();
-const list3 = new LinkedList();
-const ll = list3.mergeSortedLists(l2, l1);
+// const l2 = new LinkedList();
+// l2.add(2);
+// l2.add(5);
+// l2.add(6);
+// l2.add(7);
+// l2.printList();
+// const list3 = new LinkedList();
+// const ll = list3.mergeSortedLists(l2, l1);
 
-ll.printList();
+// ll.printList();
