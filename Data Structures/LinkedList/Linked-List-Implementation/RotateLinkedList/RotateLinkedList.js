@@ -1,14 +1,16 @@
 const LinkedList = require("../linkedList");
 
 LinkedList.prototype.RotateLinkedList = function (k) {
+  // let numOfPosition = k;
   let numOfPosition = k;
 
   if (typeof k != "number") {
     console.log("Enter a vaild number");
     return;
-  } else if (k <= 0 || k === 8) {
+  } else if (k === 0 || k === this.size || Math.abs(k) === this.size) {
     return;
-  } else if (k > this.size) {
+  } else if (k > this.size || numOfPosition < 0) {
+    numOfPosition = Math.abs(numOfPosition);
     numOfPosition = numOfPosition % this.size;
   }
 
