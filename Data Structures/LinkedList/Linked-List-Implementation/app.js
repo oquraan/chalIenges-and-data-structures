@@ -137,6 +137,15 @@ l3.RotateLinkedList(0);
 console.log("After rotate 0");
 
 l3.printList();
+
+
+
+l3.printList();
+
+l3.RotateLinkedList(-2);
+console.log("After rotate 0");
+
+l3.printList();
 // list.Reverse();
 
 // console.log(list.head.data);
