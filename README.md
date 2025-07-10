@@ -61,3 +61,8 @@
 ## Linked List Implementation :Linked List Rotate by K
 >![Linked List Rotate by K ](Data%20Structures/LinkedList/Linked-List-Implementation/docs/RotateLinkedList.jpg)
 - [Linked List Rotate by K ](Data%20Structures/LinkedList/Linked-List-Implementation/RotateLinkedList/README.md)
+
+## Stack and Queue Implementation
+>![Stack ](Data%20Structures/Stack&Queue/StackAndQueue/images/Stack.jpg)
+>![Queue ](Data%20Structures/Stack&Queue/StackAndQueue/images/Queue.jpg)
+- [Stack  and Queue  ](Data%20Structures/Stack&Queue/StackAndQueue/README.md)
