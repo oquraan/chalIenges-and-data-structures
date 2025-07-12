@@ -45,24 +45,24 @@
 
 ## Linked List Implementation
 
->![ Linked List Implementation](Data%20Structures/LinkedList/Linked-List-Implementation/docs/LinkedListClass+Funcations.jpg)
-- [ Linked List Implementation](Data%20Structures/LinkedList/Linked-List-Implementation/README.md)
+>![ Linked List Implementation](DataStructures/LinkedList/Linked-List-Implementation/docs/LinkedListClass+Funcations.jpg)
+- [ Linked List Implementation](DataStructures/LinkedList/Linked-List-Implementation/README.md)
 
 ## Linked List Implementation :Revers LinkedList 
 
->![ Revers LinkedList ](Data%20Structures/LinkedList/Linked-List-Implementation/docs/reversAll.jpg)
-- [Revers LinkedList ](Data%20Structures/LinkedList/Linked-List-Implementation/reverse/README.md)
+>![ Revers LinkedList ](DataStructures/LinkedList/Linked-List-Implementation/docs/reversAll.jpg)
+- [Revers LinkedList ](DataStructures/LinkedList/Linked-List-Implementation/reverse/README.md)
 
 
 ## Linked List Implementation :Linked List Merge Sorted Lists
->![ mergeSortedLists LinkedList ](Data%20Structures/LinkedList/Linked-List-Implementation/docs/mergeSortedLists.jpg)
-- [mergeSortedLists LinkedList ](Data%20Structures/LinkedList/Linked-List-Implementation/MergeStored/README.md)
+>![ mergeSortedLists LinkedList ](DataStructures/LinkedList/Linked-List-Implementation/docs/mergeSortedLists.jpg)
+- [mergeSortedLists LinkedList ](DataStructures/LinkedList/Linked-List-Implementation//MergeStored/README.md)
 
 ## Linked List Implementation :Linked List Rotate by K
->![Linked List Rotate by K ](Data%20Structures/LinkedList/Linked-List-Implementation/docs/RotateLinkedList.jpg)
-- [Linked List Rotate by K ](Data%20Structures/LinkedList/Linked-List-Implementation/RotateLinkedList/README.md)
+>![Linked List Rotate by K ](DataStructures/LinkedList/Linked-List-Implementation/docs/RotateLinkedList.jpg)
+- [Linked List Rotate by K ](DataStructures/LinkedList/Linked-List-Implementation/RotateLinkedList/README.md)
 
 ## Stack and Queue Implementation
->![Stack ](Data%20Structures/Stack&Queue/StackAndQueue/images/Stack.jpg)
->![Queue ](Data%20Structures/Stack&Queue/StackAndQueue/images/Queue.jpg)
-- [Stack  and Queue  ](Data%20Structures/Stack&Queue/StackAndQueue/README.md)
+>![Stack ](DataStructures/StackAndQueueClean/images/Stack.jpg)
+>![Queue ](DataStructures/StackAndQueueClean/images/Queue.jpg)
+- [Stack  and Queue  ](DataStructures/StackAndQueueClean/README.md)

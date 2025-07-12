@@ -21,14 +21,17 @@ class Queue {
   }
 
   Dequeue() {
+    let dequeue;
     if (this.top === null)
       return "you can not remove any node becuse  the queue is empty ";
+    else {
+      dequeue = this.top.data;
+    }
     if (this.top.next === null) {
       this.top = null;
-      return;
+      return dequeue;
     }
 
-    const dequeue = this.top.data;
     this.top = this.top.next;
     return dequeue;
   }
