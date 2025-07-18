@@ -26,7 +26,7 @@
 
 
 >![Challenge 02:  Minimum Value](./whiteboard-challenges/Minimum%20Value/Minimum%20Value.jpg)
-- [Challenge 02:  Minimum Value](whiteboard-challenges/Minimum%20Value/REDME.md)
+- [Challenge 02:  Minimum Value](./whiteboard-challenges/Minimum%20Value/REDME.md)
 
 
 
