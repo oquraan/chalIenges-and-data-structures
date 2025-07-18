@@ -80,73 +80,72 @@ list.remove(10);
 
 list.printList(); // Output: Head -> 5 -> 20 -> 30 -> Null
 
-console.log(list.includes(20));
-console.log(list.includes(10));
+// console.log(list.includes(20));
+// console.log(list.includes(10));
 
-list.insertAt(15, 2);
+// list.insertAt(15, 2);
 
-console.log("Sssssss");
+// console.log("Sssssss");
+list.Reverse();
+list.printList(); // Output: Head -> 5 -> 20 -> 30 -> Null
 
-const l3 = new LinkedList();
-l3.add(1);
+// const l3 = new LinkedList();
+// l3.add(1);
 
-l3.add(2);
+// l3.add(2);
 
-l3.add(3);
+// l3.add(3);
 
-l3.add(4);
-l3.add(5);
+// l3.add(4);
+// l3.add(5);
 
-l3.add(6);
+// l3.add(6);
 
-l3.add(7);
+// l3.add(7);
 
-l3.add(8);
+// l3.add(8);
 
-console.log("Before Rotate 12");
+// console.log("Before Rotate 12");
 
-l3.printList();
+// l3.printList();
 
-l3.RotateLinkedList(12);
+// l3.RotateLinkedList(12);
 
-console.log("After rotate 12");
-l3.printList();
+// console.log("After rotate 12");
+// l3.printList();
 
-console.log("Before Rotate 3");
+// console.log("Before Rotate 3");
 
-l3.printList();
+// l3.printList();
 
-l3.RotateLinkedList(3);
+// l3.RotateLinkedList(3);
 
-console.log("After rotate 3");
+// console.log("After rotate 3");
 
-l3.printList();
-console.log("Before Rotate 6");
+// l3.printList();
+// console.log("Before Rotate 6");
 
-l3.printList();
+// l3.printList();
 
-l3.RotateLinkedList(6);
-console.log("After rotate 6");
+// l3.RotateLinkedList(6);
+// console.log("After rotate 6");
 
-l3.printList();
-console.log("Before Rotate 0");
+// l3.printList();
+// console.log("Before Rotate 0");
 
-l3.printList();
+// l3.printList();
 
-l3.RotateLinkedList(0);
-console.log("After rotate 0");
+// l3.RotateLinkedList(0);
+// console.log("After rotate 0");
 
-l3.printList();
+// l3.printList();
 
+// l3.printList();
 
+// l3.RotateLinkedList(-2);
+// console.log("After rotate 0");
 
-l3.printList();
-
-l3.RotateLinkedList(-2);
-console.log("After rotate 0");
-
-l3.printList();
-// list.Reverse();
+// l3.printList();
 
 // console.log(list.head.data);
 // console.log(l.head.data);
