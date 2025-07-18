@@ -22,7 +22,6 @@
 
 
 
-
 ## Challenge 02:  Minimum Value
 
 
@@ -70,5 +69,4 @@
 ##  Delete Middle Element of a Stack
 >![ Delete Middle Element of a Stack ](DataStructures/StackAndQueue/DeleteMiddleElement/doc/WhiteBordStackWithDeleteMiddle.jpg)
 
->![ Delete Middle Element of a Stack ](DataStructures/StackAndQueue/DeleteMiddleElement/doc/StackWithDeleteMiddle.jpg)
->![ Delete Middle Element of a Stack Test  ](DataStructures/StackAndQueue/DeleteMiddleElement/doc/StackWithDeleteMiddleTest.jpg)
+>![ Delete Middle Element of a Stack ](DataStructures/StackAndQueue/DeleteMiddleElement/README.md)
