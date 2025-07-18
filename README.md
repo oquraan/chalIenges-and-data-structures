@@ -22,7 +22,6 @@
 
 
 
-
 ## Challenge 02:  Minimum Value
 
 
