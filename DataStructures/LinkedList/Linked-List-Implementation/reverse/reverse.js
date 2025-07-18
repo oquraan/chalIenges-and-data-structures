@@ -5,7 +5,7 @@ LinkedList.prototype.Reverse = function () {
     console.log("the list is empty ");
     return null;
   }
-  if (this.head.next === null ) {
+  if (this.head.next === null) {
     console.log("This is a single list node ");
     return;
   }

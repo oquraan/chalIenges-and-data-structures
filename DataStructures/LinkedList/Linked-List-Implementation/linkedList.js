@@ -104,7 +104,7 @@ class LinkedList {
       return;
     }
     const newNode = new Node(data);
-    if (this.head === null && index === 0) {
+    if (this.head === null || index === 0) {
       this.head = newNode;
       return;
     }
@@ -119,6 +119,7 @@ class LinkedList {
 
     curent.next = newNode;
     newNode.next = c;
+    this.size++;
 
     // curent.next = newNode;
   }

@@ -63,6 +63,12 @@
 - [Linked List Rotate by K ](DataStructures/LinkedList/Linked-List-Implementation/RotateLinkedList/README.md)
 
 ## Stack and Queue Implementation
->![Stack ](DataStructures/StackAndQueueClean/images/Stack.jpg)
->![Queue ](DataStructures/StackAndQueueClean/images/Queue.jpg)
-- [Stack  and Queue  ](DataStructures/StackAndQueueClean/README.md)
+>![Stack ](DataStructures/StackAndQueue/StackAndQueueClean/images/Stack.jpg)
+>![Queue ](DataStructures/StackAndQueue/StackAndQueueClean/images/Queue.jpg)
+- [Stack  and Queue  ](DataStructures/StackAndQueue/StackAndQueueClean/README.md)
+
+##  Delete Middle Element of a Stack
+>![ Delete Middle Element of a Stack ](DataStructures/StackAndQueue/DeleteMiddleElement/doc/WhiteBordStackWithDeleteMiddle.jpg)
+
+>![ Delete Middle Element of a Stack ](DataStructures/StackAndQueue/DeleteMiddleElement/doc/StackWithDeleteMiddle.jpg)
+>![ Delete Middle Element of a Stack Test  ](DataStructures/StackAndQueue/DeleteMiddleElement/doc/StackWithDeleteMiddleTest.jpg)

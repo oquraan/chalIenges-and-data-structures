@@ -3,6 +3,7 @@ const Node = require("./ClassNode");
 class Stack {
   constructor() {
     this.top = null;
+    this.size = 0;
   }
 
   push(data) {
@@ -10,6 +11,8 @@ class Stack {
 
     newNode.next = this.top;
     this.top = newNode;
+
+    this.size++;
   }
 
   pop() {
@@ -17,6 +20,7 @@ class Stack {
     const poped = this.top.data;
 
     this.top = this.top.next;
+    this.size--;
     return poped;
   }
   peek() {
@@ -39,6 +43,16 @@ class Stack {
     }
     result += " null ";
     return result;
+  }
+  DeleteInMiddle() {
+    let position;
+    if (this.size % 2 == 0) {
+      position = this.size / 2;
+    } else position = Math.ceil(this.size / 2);
+
+
+
+    
   }
 }
 module.exports = Stack;

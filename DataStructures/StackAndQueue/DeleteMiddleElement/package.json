@@ -1,0 +1,14 @@
+{
+  "name": "deletemiddleelement",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "jest": "^30.0.4"
+  }
+}
