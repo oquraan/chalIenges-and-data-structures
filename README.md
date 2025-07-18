@@ -69,4 +69,4 @@
 ##  Delete Middle Element of a Stack
 >![ Delete Middle Element of a Stack ](DataStructures/StackAndQueue/DeleteMiddleElement/doc/WhiteBordStackWithDeleteMiddle.jpg)
 
->![ Delete Middle Element of a Stack ](DataStructures/StackAndQueue/DeleteMiddleElement/README.md)
+>[ Delete Middle Element of a Stack ](DataStructures/StackAndQueue/DeleteMiddleElement/README.md)
