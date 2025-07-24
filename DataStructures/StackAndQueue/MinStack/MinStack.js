@@ -1,6 +1,6 @@
 const Node = require("./ClassNode");
 
-class Stack {
+class MinStack {
   constructor() {
     this.top = null;
     this.size = 0;
@@ -44,6 +44,34 @@ class Stack {
     result += " null ";
     return result;
   }
+  DeleteInMiddle() {
+    let position;
+    if (this.size % 2 == 0) {
+      position = this.size / 2;
+    } else position = Math.ceil(this.size / 2);
+  }
+  top() {
+    if (this.top === null) return "the Stack is empty  ";
+    else return this.top.data;
+  }
+  getMin() {
+    if (this.top === null) return "the Stack is empty  ";
+    if (this.top.next === null) {
+      // return "(min: " + this.top.data + ")";
+      return this.top.data;
+    }
 
+    let min = this.top.data;
+
+    let current = this.top;
+    while (current.next != null) {
+      if (min > current.next.data) min = current.next.data;
+
+      current = current.next;
+    }
+
+    // return "(min: " + min + ")";
+    return min;
+  }
 }
-module.exports = Stack;
+module.exports = MinStack;
