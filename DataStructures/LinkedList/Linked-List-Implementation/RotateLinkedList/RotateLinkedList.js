@@ -36,3 +36,40 @@ LinkedList.prototype.RotateLinkedList = function (k) {
 
   this.last = curent;
 };
+
+function RotateLeft(k) {
+  if (this.head === null) {
+    console.log("the list is empty ");
+    return null;
+  }
+  if (this.head.next === null) {
+    console.log("This is a single list node ");
+    return;
+  }
+  if (k > this.size) {
+    console.log("the key grater than size");
+
+    return;
+  }
+  let count = 1;
+  let current = this.head.next;
+  let latest = this.head;
+  let n,
+    n2,
+    n3 = this.head;
+
+  while (current != null) {
+    if (count === k) {
+      n = current;
+      latest.next = null;
+    }
+    if (current.next === null) n2 = current;
+    if (latest.next !== null) latest = latest.next;
+    count++;
+    current = current.next;
+  }
+  n2.next = this.head;
+  this.head = n;
+
+  this.print();
+}
