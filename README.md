@@ -82,6 +82,6 @@
 >[ Normal Binary Tree ](DataStructures/Tree/README.md)
 
 ##  Binary Search Tree 
->![Min Stack  ](DataStructures/Tree/image/BinarySearchTree.jpg)
+>![ Binary Search Tree  ](DataStructures/Tree/image/BinarySearchTree.jpg)
 
->[Min Stack ](DataStructures/Tree/README.md)
+>[ Binary Search Tree ](DataStructures/Tree/README.md)
