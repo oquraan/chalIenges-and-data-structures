@@ -2,7 +2,7 @@
 
 
 
-## Overview  
+## Overview      
 > **Problem Domain**
 Implement a binary tree and binary search tree data structures.
 ## Binary Tree Implementation
