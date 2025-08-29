@@ -1,0 +1,18 @@
+{
+  "name": "tree",
+  "version": "1.0.0",
+  "description": "> **Problem Domain**\r Implement a binary tree and binary search tree data structures.\r ## Binary Tree Implementation\r - The BinaryTree class should support methods to:\r - PreOrderO: Traverse the tree in pre-order (Root, Left, Right).\r - ln0rder(): Traverse the tree in in—order (Left, Root, Right).\r - PostOrdero: Traverse the tree in post-order (Left, Right, Root).\r - Print(): Display the tree in the console in a structured way.\r ## Binary Search Tree (BST) Implementation\r - The BinarySearchTree class should support methods to:\r - Add(value): Add a node with the specified value in the correct location to maintain BST properties.\r - Contains(value): Return true if the value exists in the tree, otherwise false.\r - Remove(value): Remove the node with the specified value while maintaining BST properties.\r ### Whiteboard Image",
+  "main": "App.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "jest": "^30.0.5"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
