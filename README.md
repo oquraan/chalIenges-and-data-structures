@@ -111,3 +111,9 @@
 >![Second Maximum Value](DataStructures/Tree/TreeImplementation/SecondMaxValue/image/SecoundaryMaxValue%20.jpg)
 
 >[Second Maximum Value ](DataStructures/Tree/TreeImplementation/SecondMaxValue/README.md)
+
+##  Sum  of leaf 
+>
+>![Sum  of leaf ](DataStructures/Tree/TreeImplementation/leafSum/image/sumOfLeaf.jpg)
+
+>[Sum  of leaf  ](DataStructures/Tree/TreeImplementation/leafSum/README.md)

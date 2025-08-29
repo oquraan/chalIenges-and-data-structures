@@ -1,5 +1,4 @@
-# Delete Middle Element of a Stack
-
+# Binary Tree and Binary Search Tree Implementation
 
 
 ## Overview      
